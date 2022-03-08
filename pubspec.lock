@@ -102,6 +102,20 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.7.0"
+  microfront_basic_calculator:
+    dependency: "direct main"
+    description:
+      path: "packages/microfront_basic_calculator"
+      relative: true
+    source: path
+    version: "0.0.1"
+  microfront_monitor:
+    dependency: "direct main"
+    description:
+      path: "packages/microfront_monitor"
+      relative: true
+    source: path
+    version: "0.0.1"
   path:
     dependency: transitive
     description:
@@ -172,3 +186,4 @@ packages:
     version: "2.1.1"
 sdks:
   dart: ">=2.15.1 <3.0.0"
+  flutter: ">=1.17.0"

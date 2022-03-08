@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
-import 'package:trying_microfront/basic_calculator/basic_calculator_controller.dart';
-import 'package:trying_microfront/basic_calculator/models/cell_type.dart';
+import 'package:microfront_basic_calculator/src/models/cell_type.dart';
+import 'basic_calculator_controller.dart';
 
 class BasicCalculatorView extends StatelessWidget {
   const BasicCalculatorView({Key? key}) : super(key: key);
