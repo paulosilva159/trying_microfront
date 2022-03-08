@@ -2,9 +2,9 @@ import 'dart:async';
 import 'dart:math';
 
 import 'package:flutter/foundation.dart';
-import 'package:trying_microfront/basic_calculator/models/calculation.dart';
-import 'package:trying_microfront/basic_calculator/models/cell_type.dart';
-import 'package:trying_microfront/basic_calculator/models/result.dart';
+import 'package:microfront_basic_calculator/src/models/calculation.dart';
+import 'package:microfront_basic_calculator/src/models/cell_type.dart';
+import 'package:microfront_basic_calculator/src/models/result.dart';
 
 class BasicCalculatorController {
   BasicCalculatorController() {

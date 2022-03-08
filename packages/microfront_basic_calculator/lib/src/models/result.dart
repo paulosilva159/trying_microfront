@@ -1,4 +1,4 @@
-import 'package:trying_microfront/basic_calculator/models/calculation.dart';
+import 'package:microfront_basic_calculator/src/models/calculation.dart';
 
 class Result {
   const Result({this.calculation = const Calculation(), this.value});

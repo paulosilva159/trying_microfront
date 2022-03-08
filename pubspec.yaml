@@ -9,6 +9,10 @@ environment:
   sdk: ">=2.15.1 <3.0.0"
 
 dependencies:
+  microfront_monitor:
+    path: packages/microfront_monitor
+  microfront_basic_calculator:
+    path: packages/microfront_basic_calculator
   cupertino_icons: ^1.0.2
   get_it: ^7.2.0
   flutter:

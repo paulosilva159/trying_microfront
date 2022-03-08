@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
-import 'package:trying_microfront/monitor/models/presentation.dart';
-import 'package:trying_microfront/monitor/monitor_controller.dart';
+import 'package:microfront_monitor/src/models/presentation.dart';
+import 'package:microfront_monitor/src/presentation/monitor_controller.dart';
 
 class MonitorView extends StatefulWidget {
   const MonitorView({Key? key}) : super(key: key);

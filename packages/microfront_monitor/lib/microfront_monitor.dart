@@ -1,7 +1,6 @@
 library microfront_monitor;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/presentation/monitor_controller.dart';
+export 'src/presentation/monitor_view.dart';
+export 'src/injection/monitor_injection.dart';
+export 'src/models/presentation.dart';
